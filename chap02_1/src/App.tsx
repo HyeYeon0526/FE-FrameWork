@@ -1,24 +1,22 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useState } from 'react';
+import MyTable from './Mytable';
+import Message from './Message';
 import './App.css';
 
 function App() {
+  const [ count, setCount ] = useState(0);
+  const increase = () => { setCount(count + 1);};
+  const decrease = () => { setCount(count - 1);};
+ 
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <MyTable />
+      <hr />
+      <Message value="안녕하세요" color="blue" />
+      <hr />
+      <p>{ count }</p>
+      <button onClick={increase}> 증가 </button>
+      <button onClick={decrease}> 감소 </button>
     </div>
   );
 }
