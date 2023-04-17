@@ -1,0 +1,16 @@
+import React, { useReducer } from 'react'
+import './TodoRoot.css'
+import TodoInput from './TodoInput';
+import TodoList from './TodoList';
+import { reducer, initialState } from './todoReducer'
+function TodoRoot() {
+    const [state, dispatch] = useReducer(reducer, initialState)
+    return (
+        <div className="todoRoot">
+            <h1>할일</h1>
+            <TodoInput dispatch={dispatch} />
+            <TodoList todoList={state.todoList} dispatch={dispatch} />
+        </div>
+    )
+}
+export default TodoRoot;

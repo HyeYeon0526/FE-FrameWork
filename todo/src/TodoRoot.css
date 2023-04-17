@@ -1,0 +1,12 @@
+.todoRoot { border: 1px solid gray; width: 400px; margin: 10px auto;
+    box-shadow: 5px 5px 5px #DDD; padding: 30px; }
+    .todoRoot h1 { margin: 0 0 20px 0; }
+    .todoRoot div > input { padding: 6px; width: 280px; }
+    .todoRoot div button { margin-left: 5px; padding: 3px 10px; }
+    .todoRoot table { border-collapse: collapse; margin-top: 20px; width: 100%; }
+    .todoRoot td { border: 1px solid gray; padding: 6px; }
+    .todoRoot thead { background-color: #eee; text-align: center; }
+    .todoRoot td:nth-child(1) { text-align: center; width: 30px; }
+    .todoRoot input[type=checkbox] { margin-right: 10px; accent-color: gray; }
+    .todoRoot span { float: right; font-weight: bold; cursor: pointer; }
+    .todoRoot tr.done { color: #bbb; text-decoration: line-through; }
