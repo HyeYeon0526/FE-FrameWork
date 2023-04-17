@@ -25,7 +25,7 @@ export const reducer: ReducerFunc = (state: State, action: Action) => {
         case "addTodo":
             return {
                 todoList: [...state.todoList,
-                { id: ++lastId, title: action.payload.title, done: false }]
+                { id: lastId + 1, title: action.payload.title, done: false }]
             };
         case "deleteTodo":
             return {
