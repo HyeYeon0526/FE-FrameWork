@@ -1,231 +1,230 @@
 {
-    "departments": [
-        {
-            "id": 1,
-            "name": "소프트웨어공학과",
-            "shortName": "소프",
-            "phone": "02-2610-9563"
-        },
-        {
-            "id": 2,
-            "name": "컴퓨터공학과",
-            "shortName": "컴공",
-            "phone": "02-2610-9565"
-        },
-        {
-            "id": 3,
-            "name": "정보통신공학과",
-            "shortName": "정통",
-            "phone": "02-2610-9568"
-        },
-        {
-            "id": 4,
-            "name": "글로컬IT공학과",
-            "shortName": "글티",
-            "phone": "02-2610-9569"
-        }
-    ],
-    "students": [
-        {
-            "id": 1,
-            "studentNo": "201532006",
-            "name": "최하은",
-            "phone": "010-4361-1145",
-            "sex": "여",
-            "email": "choi064@skhu.ac.kr",
-            "departmentId": 1
-        },
-        {
-            "id": 2,
-            "studentNo": "201532007",
-            "name": "김진영",
-            "phone": "010-3415-1238",
-            "sex": "남",
-            "email": "kim073@skhu.ac.kr",
-            "departmentId": 3
-        },
-        {
-            "id": 3,
-            "studentNo": "201532008",
-            "name": "나철진",
-            "phone": "010-8703-1239",
-            "sex": "남",
-            "email": "na088@skhu.ac.kr",
-            "departmentId": 3
-        },
-        {
-            "id": 4,
-            "studentNo": "201532009",
-            "name": "이익수",
-            "phone": "010-7875-1251",
-            "sex": "남",
-            "email": "lee097@skhu.ac.kr",
-            "departmentId": 4
-        },
-        {
-            "id": 5,
-            "studentNo": "201532010",
-            "name": "이제문",
-            "phone": "010-7700-1333",
-            "sex": "남",
-            "email": "lee107@skhu.ac.kr",
-            "departmentId": 1
-        },
-        {
-            "id": 6,
-            "studentNo": "201532011",
-            "name": "김영우",
-            "phone": "010-2090-1421",
-            "sex": "남",
-            "email": "kim112@skhu.ac.kr",
-            "departmentId": 1
-        },
-        {
-            "id": 7,
-            "studentNo": "201532012",
-            "name": "주한요",
-            "phone": "010-4624-1467",
-            "sex": "남",
-            "email": "joo124@skhu.ac.kr",
-            "departmentId": 3
-        },
-        {
-            "id": 8,
-            "studentNo": "201532013",
-            "name": "김숙홍",
-            "phone": "010-3791-1522",
-            "sex": "남",
-            "email": "kim133@skhu.ac.kr",
-            "departmentId": 1
-        },
-        {
-            "id": 9,
-            "studentNo": "201532014",
-            "name": "홍영수",
-            "phone": "010-2897-1525",
-            "sex": "남",
-            "email": "hong142@skhu.ac.kr",
-            "departmentId": 4
-        },
-        {
-            "id": 10,
-            "studentNo": "201532015",
-            "name": "박원종",
-            "phone": "010-7655-1724",
-            "sex": "남",
-            "email": "park157@skhu.ac.kr",
-            "departmentId": 1
-        },
-        {
-            "id": 11,
-            "studentNo": "201432015",
-            "name": "변준호",
-            "phone": "010-2245-1750",
-            "sex": "남",
-            "email": "byeon152@skhu.ac.kr",
-            "departmentId": 1
-        },
-        {
-            "id": 12,
-            "studentNo": "201532016",
-            "name": "고희정",
-            "phone": "010-5691-1943",
-            "sex": "여",
-            "email": "ko165@skhu.ac.kr",
-            "departmentId": 3
-        },
-        {
-            "id": 13,
-            "studentNo": "201432016",
-            "name": "신철대",
-            "phone": "010-3221-1956",
-            "sex": "남",
-            "email": "sin163@skhu.ac.kr",
-            "departmentId": 4
-        },
-        {
-            "id": 14,
-            "studentNo": "201532017",
-            "name": "서윤정",
-            "phone": "010-4310-1965",
-            "sex": "여",
-            "email": "seo174@skhu.ac.kr",
-            "departmentId": 3
-        },
-        {
-            "id": 15,
-            "studentNo": "201432017",
-            "name": "오화순",
-            "phone": "010-8527-2048",
-            "sex": "여",
-            "email": "oh178@skhu.ac.kr",
-            "departmentId": 3
-        },
-        {
-            "id": 16,
-            "studentNo": "201532018",
-            "name": "박재인",
-            "phone": "010-2616-2144",
-            "sex": "남",
-            "email": "park182@skhu.ac.kr",
-            "departmentId": 1
-        },
-        {
-            "id": 17,
-            "studentNo": "201532019",
-            "name": "최현복",
-            "phone": "010-7312-2171",
-            "sex": "남",
-            "email": "choi197@skhu.ac.kr",
-            "departmentId": 2
-        },
-        {
-            "id": 18,
-            "studentNo": "201432019",
-            "name": "임봉영",
-            "phone": "010-7475-2192",
-            "sex": "남",
-            "email": "lim197@skhu.ac.kr",
-            "departmentId": 2
-        },
-        {
-            "id": 19,
-            "studentNo": "201532020",
-            "name": "장영만",
-            "phone": "010-1527-2270",
-            "sex": "남",
-            "email": "jang201@skhu.ac.kr",
-            "departmentId": 2
-        },
-        {
-            "id": 20,
-            "studentNo": "201432020",
-            "name": "박주용",
-            "phone": "010-1640-2396",
-            "sex": "남",
-            "email": "park201@skhu.ac.kr",
-            "departmentId": 4
-        },
-        {
-            "id": 21,
-            "studentNo": "201532021",
-            "name": "황하지",
-            "phone": "010-6682-2463",
-            "sex": "남",
-            "email": "hwang216@skhu.ac.kr",
-            "departmentId": 2
-        },
-        {
-            "id": 22,
-            "studentNo": "201532022",
-            "name": "유환치",
-            "phone": "010-3951-2464",
-            "sex": "남",
-            "email": "yu223@skhu.ac.kr",
-            "departmentId": 4
-        },
-
-{
+  "departments": [
+      {
+          "id": 1,
+          "name": "소프트웨어공학과",
+          "shortName": "소프",
+          "phone": "02-2610-9563"
+      },
+      {
+          "id": 2,
+          "name": "컴퓨터공학과",
+          "shortName": "컴공",
+          "phone": "02-2610-9565"
+      },
+      {
+          "id": 3,
+          "name": "정보통신공학과",
+          "shortName": "정통",
+          "phone": "02-2610-9568"
+      },
+      {
+          "id": 4,
+          "name": "글로컬IT공학과",
+          "shortName": "글티",
+          "phone": "02-2610-9569"
+      }
+  ],
+  "students": [
+    {
+        "id": 1,
+        "studentNo": "201532006",
+        "name": "최하은",
+        "phone": "010-4361-1145",
+        "sex": "여",
+        "email": "choi064@skhu.ac.kr",
+        "departmentId": 1
+    },
+    {
+        "id": 2,
+        "studentNo": "201532007",
+        "name": "김진영",
+        "phone": "010-3415-1238",
+        "sex": "남",
+        "email": "kim073@skhu.ac.kr",
+        "departmentId": 3
+    },
+    {
+        "id": 3,
+        "studentNo": "201532008",
+        "name": "나철진",
+        "phone": "010-8703-1239",
+        "sex": "남",
+        "email": "na088@skhu.ac.kr",
+        "departmentId": 3
+    },
+    {
+        "id": 4,
+        "studentNo": "201532009",
+        "name": "이익수",
+        "phone": "010-7875-1251",
+        "sex": "남",
+        "email": "lee097@skhu.ac.kr",
+        "departmentId": 4
+    },
+    {
+        "id": 5,
+        "studentNo": "201532010",
+        "name": "이제문",
+        "phone": "010-7700-1333",
+        "sex": "남",
+        "email": "lee107@skhu.ac.kr",
+        "departmentId": 1
+    },
+    {
+        "id": 6,
+        "studentNo": "201532011",
+        "name": "김영우",
+        "phone": "010-2090-1421",
+        "sex": "남",
+        "email": "kim112@skhu.ac.kr",
+        "departmentId": 1
+    },
+    {
+        "id": 7,
+        "studentNo": "201532012",
+        "name": "주한요",
+        "phone": "010-4624-1467",
+        "sex": "남",
+        "email": "joo124@skhu.ac.kr",
+        "departmentId": 3
+    },
+    {
+        "id": 8,
+        "studentNo": "201532013",
+        "name": "김숙홍",
+        "phone": "010-3791-1522",
+        "sex": "남",
+        "email": "kim133@skhu.ac.kr",
+        "departmentId": 1
+    },
+    {
+        "id": 9,
+        "studentNo": "201532014",
+        "name": "홍영수",
+        "phone": "010-2897-1525",
+        "sex": "남",
+        "email": "hong142@skhu.ac.kr",
+        "departmentId": 4
+    },
+    {
+        "id": 10,
+        "studentNo": "201532015",
+        "name": "박원종",
+        "phone": "010-7655-1724",
+        "sex": "남",
+        "email": "park157@skhu.ac.kr",
+        "departmentId": 1
+    },
+    {
+        "id": 11,
+        "studentNo": "201432015",
+        "name": "변준호",
+        "phone": "010-2245-1750",
+        "sex": "남",
+        "email": "byeon152@skhu.ac.kr",
+        "departmentId": 1
+    },
+    {
+        "id": 12,
+        "studentNo": "201532016",
+        "name": "고희정",
+        "phone": "010-5691-1943",
+        "sex": "여",
+        "email": "ko165@skhu.ac.kr",
+        "departmentId": 3
+    },
+    {
+        "id": 13,
+        "studentNo": "201432016",
+        "name": "신철대",
+        "phone": "010-3221-1956",
+        "sex": "남",
+        "email": "sin163@skhu.ac.kr",
+        "departmentId": 4
+    },
+    {
+        "id": 14,
+        "studentNo": "201532017",
+        "name": "서윤정",
+        "phone": "010-4310-1965",
+        "sex": "여",
+        "email": "seo174@skhu.ac.kr",
+        "departmentId": 3
+    },
+    {
+        "id": 15,
+        "studentNo": "201432017",
+        "name": "오화순",
+        "phone": "010-8527-2048",
+        "sex": "여",
+        "email": "oh178@skhu.ac.kr",
+        "departmentId": 3
+    },
+    {
+        "id": 16,
+        "studentNo": "201532018",
+        "name": "박재인",
+        "phone": "010-2616-2144",
+        "sex": "남",
+        "email": "park182@skhu.ac.kr",
+        "departmentId": 1
+    },
+    {
+        "id": 17,
+        "studentNo": "201532019",
+        "name": "최현복",
+        "phone": "010-7312-2171",
+        "sex": "남",
+        "email": "choi197@skhu.ac.kr",
+        "departmentId": 2
+    },
+    {
+        "id": 18,
+        "studentNo": "201432019",
+        "name": "임봉영",
+        "phone": "010-7475-2192",
+        "sex": "남",
+        "email": "lim197@skhu.ac.kr",
+        "departmentId": 2
+    },
+    {
+        "id": 19,
+        "studentNo": "201532020",
+        "name": "장영만",
+        "phone": "010-1527-2270",
+        "sex": "남",
+        "email": "jang201@skhu.ac.kr",
+        "departmentId": 2
+    },
+    {
+        "id": 20,
+        "studentNo": "201432020",
+        "name": "박주용",
+        "phone": "010-1640-2396",
+        "sex": "남",
+        "email": "park201@skhu.ac.kr",
+        "departmentId": 4
+    },
+    {
+        "id": 21,
+        "studentNo": "201532021",
+        "name": "황하지",
+        "phone": "010-6682-2463",
+        "sex": "남",
+        "email": "hwang216@skhu.ac.kr",
+        "departmentId": 2
+    },
+    {
+        "id": 22,
+        "studentNo": "201532022",
+        "name": "유환치",
+        "phone": "010-3951-2464",
+        "sex": "남",
+        "email": "yu223@skhu.ac.kr",
+        "departmentId": 4
+    },
+  {
     "id": 23,
     "studentNo": "201532023",
     "name": "성희지",
@@ -233,8 +232,8 @@
     "sex": "남",
     "email": "seong234@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 24,
     "studentNo": "201532024",
     "name": "박철용",
@@ -242,8 +241,8 @@
     "sex": "남",
     "email": "park242@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 25,
     "studentNo": "201532025",
     "name": "이주연",
@@ -251,8 +250,8 @@
     "sex": "남",
     "email": "lee257@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 26,
     "studentNo": "201532026",
     "name": "김철지",
@@ -260,8 +259,8 @@
     "sex": "남",
     "email": "kim261@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 27,
     "studentNo": "201532027",
     "name": "이화상",
@@ -269,8 +268,8 @@
     "sex": "남",
     "email": "lee272@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 28,
     "studentNo": "201532028",
     "name": "백영규",
@@ -278,8 +277,8 @@
     "sex": "남",
     "email": "pak286@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 29,
     "studentNo": "201532029",
     "name": "김화인",
@@ -287,8 +286,8 @@
     "sex": "여",
     "email": "kim296@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 30,
     "studentNo": "201532030",
     "name": "김만기",
@@ -296,8 +295,8 @@
     "sex": "남",
     "email": "kim304@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 31,
     "studentNo": "201632006",
     "name": "김진우",
@@ -305,8 +304,8 @@
     "sex": "남",
     "email": "kim063@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 32,
     "studentNo": "201632007",
     "name": "박남영",
@@ -314,8 +313,8 @@
     "sex": "남",
     "email": "park078@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 33,
     "studentNo": "201632008",
     "name": "이식동",
@@ -323,8 +322,8 @@
     "sex": "남",
     "email": "lee087@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 34,
     "studentNo": "201632009",
     "name": "박하정",
@@ -332,8 +331,8 @@
     "sex": "여",
     "email": "park092@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 35,
     "studentNo": "201632010",
     "name": "박룡성",
@@ -341,8 +340,8 @@
     "sex": "남",
     "email": "park107@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 36,
     "studentNo": "201632011",
     "name": "곽구인",
@@ -350,8 +349,8 @@
     "sex": "남",
     "email": "kwak118@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 37,
     "studentNo": "201632012",
     "name": "김균진",
@@ -359,8 +358,8 @@
     "sex": "남",
     "email": "kim125@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 38,
     "studentNo": "201632013",
     "name": "김정희",
@@ -368,8 +367,8 @@
     "sex": "여",
     "email": "kim131@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 39,
     "studentNo": "201632014",
     "name": "황찬금",
@@ -377,8 +376,8 @@
     "sex": "남",
     "email": "hwang145@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 40,
     "studentNo": "201632015",
     "name": "고영은",
@@ -386,8 +385,8 @@
     "sex": "여",
     "email": "ko154@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 41,
     "studentNo": "201635015",
     "name": "정정유",
@@ -395,8 +394,8 @@
     "sex": "남",
     "email": "jeong158@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 42,
     "studentNo": "201632016",
     "name": "최영유",
@@ -404,8 +403,8 @@
     "sex": "남",
     "email": "choi165@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 43,
     "studentNo": "201633016",
     "name": "김명진",
@@ -413,8 +412,8 @@
     "sex": "여",
     "email": "kim165@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 44,
     "studentNo": "201632017",
     "name": "황숙인",
@@ -422,8 +421,8 @@
     "sex": "여",
     "email": "hwang178@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 45,
     "studentNo": "201633017",
     "name": "서나윤",
@@ -431,8 +430,8 @@
     "sex": "여",
     "email": "seo176@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 46,
     "studentNo": "201632018",
     "name": "김혜초",
@@ -440,8 +439,8 @@
     "sex": "여",
     "email": "kim181@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 47,
     "studentNo": "201632019",
     "name": "이하정",
@@ -449,8 +448,8 @@
     "sex": "여",
     "email": "lee198@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 48,
     "studentNo": "201634019",
     "name": "안현도",
@@ -458,8 +457,8 @@
     "sex": "남",
     "email": "ahn199@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 49,
     "studentNo": "201632020",
     "name": "박배균",
@@ -467,8 +466,8 @@
     "sex": "남",
     "email": "park208@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 50,
     "studentNo": "201634020",
     "name": "이복성",
@@ -476,8 +475,8 @@
     "sex": "남",
     "email": "lee208@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 51,
     "studentNo": "201632021",
     "name": "박진희",
@@ -485,8 +484,8 @@
     "sex": "여",
     "email": "park215@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 52,
     "studentNo": "201632022",
     "name": "박남기",
@@ -494,8 +493,8 @@
     "sex": "남",
     "email": "park229@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 53,
     "studentNo": "201632023",
     "name": "손일종",
@@ -503,8 +502,8 @@
     "sex": "남",
     "email": "son235@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 54,
     "studentNo": "201632024",
     "name": "송호명",
@@ -512,8 +511,8 @@
     "sex": "남",
     "email": "song244@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 55,
     "studentNo": "201632025",
     "name": "박환진",
@@ -521,8 +520,8 @@
     "sex": "남",
     "email": "park255@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 56,
     "studentNo": "201632026",
     "name": "최미영",
@@ -530,8 +529,8 @@
     "sex": "여",
     "email": "choi268@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 57,
     "studentNo": "201632027",
     "name": "류진소",
@@ -539,8 +538,8 @@
     "sex": "남",
     "email": "ryu278@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 58,
     "studentNo": "201632028",
     "name": "이도영",
@@ -548,8 +547,8 @@
     "sex": "여",
     "email": "lee284@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 59,
     "studentNo": "201632029",
     "name": "장식달",
@@ -557,8 +556,8 @@
     "sex": "남",
     "email": "jang299@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 60,
     "studentNo": "201632030",
     "name": "천세승",
@@ -566,8 +565,8 @@
     "sex": "남",
     "email": "cheon303@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 61,
     "studentNo": "201732006",
     "name": "천병상",
@@ -575,8 +574,8 @@
     "sex": "남",
     "email": "cheon067@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 62,
     "studentNo": "201732007",
     "name": "김택용",
@@ -584,8 +583,8 @@
     "sex": "남",
     "email": "kim075@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 63,
     "studentNo": "201732008",
     "name": "김영수",
@@ -593,8 +592,8 @@
     "sex": "남",
     "email": "kim082@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 64,
     "studentNo": "201732009",
     "name": "이호규",
@@ -602,8 +601,8 @@
     "sex": "남",
     "email": "lee096@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 65,
     "studentNo": "201732010",
     "name": "이영시",
@@ -611,8 +610,8 @@
     "sex": "여",
     "email": "lee105@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 66,
     "studentNo": "201732011",
     "name": "이원강",
@@ -620,8 +619,8 @@
     "sex": "남",
     "email": "lee111@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 67,
     "studentNo": "201732012",
     "name": "신춘동",
@@ -629,8 +628,8 @@
     "sex": "남",
     "email": "sin123@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 68,
     "studentNo": "201732013",
     "name": "이영상",
@@ -638,8 +637,8 @@
     "sex": "남",
     "email": "lee132@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 69,
     "studentNo": "201732014",
     "name": "윤주동",
@@ -647,8 +646,8 @@
     "sex": "남",
     "email": "yoon144@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 70,
     "studentNo": "201732015",
     "name": "김환정",
@@ -656,8 +655,8 @@
     "sex": "남",
     "email": "kim154@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 71,
     "studentNo": "201734015",
     "name": "김연정",
@@ -665,8 +664,8 @@
     "sex": "여",
     "email": "kim152@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 72,
     "studentNo": "201732016",
     "name": "박해노",
@@ -674,8 +673,8 @@
     "sex": "남",
     "email": "park168@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 73,
     "studentNo": "201734016",
     "name": "김호경",
@@ -683,8 +682,8 @@
     "sex": "여",
     "email": "kim166@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 74,
     "studentNo": "201732017",
     "name": "박진수",
@@ -692,8 +691,8 @@
     "sex": "남",
     "email": "park173@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 75,
     "studentNo": "201734017",
     "name": "민영희",
@@ -701,8 +700,8 @@
     "sex": "여",
     "email": "min177@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 76,
     "studentNo": "201732018",
     "name": "이수외",
@@ -710,8 +709,8 @@
     "sex": "남",
     "email": "lee184@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 77,
     "studentNo": "201733019",
     "name": "신자달",
@@ -719,8 +718,8 @@
     "sex": "남",
     "email": "sin194@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 78,
     "studentNo": "201732019",
     "name": "김상종",
@@ -728,8 +727,8 @@
     "sex": "남",
     "email": "kim194@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 79,
     "studentNo": "201732020",
     "name": "장언서",
@@ -737,8 +736,8 @@
     "sex": "남",
     "email": "jang209@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 80,
     "studentNo": "201733020",
     "name": "나주태",
@@ -746,8 +745,8 @@
     "sex": "남",
     "email": "na206@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 81,
     "studentNo": "201732021",
     "name": "김진수",
@@ -755,8 +754,8 @@
     "sex": "남",
     "email": "kim219@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 82,
     "studentNo": "201732022",
     "name": "변상우",
@@ -764,8 +763,8 @@
     "sex": "남",
     "email": "byeon228@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 83,
     "studentNo": "201732023",
     "name": "정석기",
@@ -773,8 +772,8 @@
     "sex": "남",
     "email": "jeong231@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 84,
     "studentNo": "201732024",
     "name": "한운용",
@@ -782,8 +781,8 @@
     "sex": "남",
     "email": "han244@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 85,
     "studentNo": "201732025",
     "name": "한운하",
@@ -791,8 +790,8 @@
     "sex": "남",
     "email": "han258@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 86,
     "studentNo": "201732026",
     "name": "송원기",
@@ -800,8 +799,8 @@
     "sex": "남",
     "email": "song261@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 87,
     "studentNo": "201732027",
     "name": "유숙환",
@@ -809,8 +808,8 @@
     "sex": "남",
     "email": "yu276@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 88,
     "studentNo": "201732028",
     "name": "이기병",
@@ -818,8 +817,8 @@
     "sex": "남",
     "email": "lee283@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 89,
     "studentNo": "201732029",
     "name": "김현영",
@@ -827,8 +826,8 @@
     "sex": "남",
     "email": "kim298@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 90,
     "studentNo": "201732030",
     "name": "엄태원",
@@ -836,8 +835,8 @@
     "sex": "남",
     "email": "eom305@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 91,
     "studentNo": "201832006",
     "name": "신순재",
@@ -845,8 +844,8 @@
     "sex": "남",
     "email": "sin061@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 92,
     "studentNo": "201832007",
     "name": "심영훈",
@@ -854,8 +853,8 @@
     "sex": "남",
     "email": "sim075@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 93,
     "studentNo": "201832008",
     "name": "조훈지",
@@ -863,8 +862,8 @@
     "sex": "남",
     "email": "ko087@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 94,
     "studentNo": "201832009",
     "name": "정리두",
@@ -872,8 +871,8 @@
     "sex": "남",
     "email": "jeong094@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 95,
     "studentNo": "201832010",
     "name": "안학상",
@@ -881,8 +880,8 @@
     "sex": "남",
     "email": "ahn109@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 96,
     "studentNo": "201832011",
     "name": "신림경",
@@ -890,8 +889,8 @@
     "sex": "여",
     "email": "sin112@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 97,
     "studentNo": "201832012",
     "name": "김선미",
@@ -899,8 +898,8 @@
     "sex": "남",
     "email": "kim123@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 98,
     "studentNo": "201832013",
     "name": "기도형",
@@ -908,8 +907,8 @@
     "sex": "남",
     "email": "ki135@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 99,
     "studentNo": "201832014",
     "name": "나채혁",
@@ -917,8 +916,8 @@
     "sex": "남",
     "email": "na149@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 100,
     "studentNo": "201834015",
     "name": "송영근",
@@ -926,8 +925,8 @@
     "sex": "남",
     "email": "song155@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 101,
     "studentNo": "201832015",
     "name": "이인해",
@@ -935,8 +934,8 @@
     "sex": "여",
     "email": "lee151@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 102,
     "studentNo": "201832016",
     "name": "송철종",
@@ -944,8 +943,8 @@
     "sex": "남",
     "email": "song168@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 103,
     "studentNo": "201834016",
     "name": "이아경",
@@ -953,8 +952,8 @@
     "sex": "여",
     "email": "lee164@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 104,
     "studentNo": "201832017",
     "name": "여희경",
@@ -962,8 +961,8 @@
     "sex": "여",
     "email": "yeo173@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 105,
     "studentNo": "201833017",
     "name": "이경규",
@@ -971,8 +970,8 @@
     "sex": "남",
     "email": "lee174@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 106,
     "studentNo": "201832018",
     "name": "정기민",
@@ -980,8 +979,8 @@
     "sex": "남",
     "email": "jeong183@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 107,
     "studentNo": "201832019",
     "name": "정승호",
@@ -989,8 +988,8 @@
     "sex": "남",
     "email": "jeong196@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 108,
     "studentNo": "201835019",
     "name": "서주정",
@@ -998,8 +997,8 @@
     "sex": "여",
     "email": "seo199@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 109,
     "studentNo": "201832020",
     "name": "김영주",
@@ -1007,8 +1006,8 @@
     "sex": "남",
     "email": "kim206@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 110,
     "studentNo": "201835020",
     "name": "황우석",
@@ -1016,8 +1015,8 @@
     "sex": "남",
     "email": "hwang201@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 111,
     "studentNo": "201832021",
     "name": "조권정",
@@ -1025,8 +1024,8 @@
     "sex": "남",
     "email": "ko213@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 112,
     "studentNo": "201832022",
     "name": "김영수",
@@ -1034,8 +1033,8 @@
     "sex": "남",
     "email": "kim228@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 113,
     "studentNo": "201832023",
     "name": "김기혜",
@@ -1043,8 +1042,8 @@
     "sex": "여",
     "email": "kim237@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 114,
     "studentNo": "201832024",
     "name": "이기형",
@@ -1052,8 +1051,8 @@
     "sex": "남",
     "email": "lee246@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 115,
     "studentNo": "201832025",
     "name": "송우명",
@@ -1061,8 +1060,8 @@
     "sex": "남",
     "email": "song253@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 116,
     "studentNo": "201832026",
     "name": "류화시",
@@ -1070,8 +1069,8 @@
     "sex": "남",
     "email": "ryu265@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 117,
     "studentNo": "201832027",
     "name": "박재용",
@@ -1079,8 +1078,8 @@
     "sex": "남",
     "email": "park271@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 118,
     "studentNo": "201832028",
     "name": "이사육",
@@ -1088,8 +1087,8 @@
     "sex": "남",
     "email": "lee288@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 119,
     "studentNo": "201832029",
     "name": "이진생",
@@ -1097,8 +1096,8 @@
     "sex": "남",
     "email": "lee293@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 120,
     "studentNo": "201832030",
     "name": "김승영",
@@ -1106,8 +1105,8 @@
     "sex": "남",
     "email": "kim308@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 121,
     "studentNo": "201932006",
     "name": "신정효",
@@ -1115,8 +1114,8 @@
     "sex": "여",
     "email": "sin065@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 122,
     "studentNo": "201932007",
     "name": "김곤일",
@@ -1124,8 +1123,8 @@
     "sex": "남",
     "email": "kim076@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 123,
     "studentNo": "201932008",
     "name": "황규동",
@@ -1133,8 +1132,8 @@
     "sex": "남",
     "email": "hwang085@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 124,
     "studentNo": "201932009",
     "name": "조화병",
@@ -1142,8 +1141,8 @@
     "sex": "여",
     "email": "ko092@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 125,
     "studentNo": "201932010",
     "name": "김영희",
@@ -1151,8 +1150,8 @@
     "sex": "여",
     "email": "kim104@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 126,
     "studentNo": "201932011",
     "name": "김규태",
@@ -1160,8 +1159,8 @@
     "sex": "남",
     "email": "kim119@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 127,
     "studentNo": "201932012",
     "name": "김희진",
@@ -1169,8 +1168,8 @@
     "sex": "여",
     "email": "kim121@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 128,
     "studentNo": "201932013",
     "name": "장남석",
@@ -1178,8 +1177,8 @@
     "sex": "남",
     "email": "jang139@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 129,
     "studentNo": "201932014",
     "name": "이상은",
@@ -1187,8 +1186,8 @@
     "sex": "남",
     "email": "lee147@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 130,
     "studentNo": "201932015",
     "name": "박삼재",
@@ -1196,8 +1195,8 @@
     "sex": "남",
     "email": "park152@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 131,
     "studentNo": "201935015",
     "name": "신호진",
@@ -1205,8 +1204,8 @@
     "sex": "남",
     "email": "sin151@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 132,
     "studentNo": "201933016",
     "name": "한섭계",
@@ -1214,8 +1213,8 @@
     "sex": "남",
     "email": "han164@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 133,
     "studentNo": "201932016",
     "name": "도재인",
@@ -1223,8 +1222,8 @@
     "sex": "남",
     "email": "do167@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 134,
     "studentNo": "201934017",
     "name": "김하지",
@@ -1232,8 +1231,8 @@
     "sex": "남",
     "email": "kim179@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 135,
     "studentNo": "201932017",
     "name": "김준호",
@@ -1241,8 +1240,8 @@
     "sex": "남",
     "email": "kim174@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 136,
     "studentNo": "201932018",
     "name": "조진동",
@@ -1250,8 +1249,8 @@
     "sex": "남",
     "email": "ko186@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 137,
     "studentNo": "201935019",
     "name": "최선예",
@@ -1259,8 +1258,8 @@
     "sex": "여",
     "email": "choi196@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 138,
     "studentNo": "201933019",
     "name": "김영균",
@@ -1268,8 +1267,8 @@
     "sex": "남",
     "email": "kim192@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 139,
     "studentNo": "201932020",
     "name": "함헌석",
@@ -1277,8 +1276,8 @@
     "sex": "남",
     "email": "ham208@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 140,
     "studentNo": "201933020",
     "name": "류숙정",
@@ -1286,8 +1285,8 @@
     "sex": "여",
     "email": "ryu201@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 141,
     "studentNo": "201932021",
     "name": "정훈세",
@@ -1295,8 +1294,8 @@
     "sex": "남",
     "email": "jeong215@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 142,
     "studentNo": "201932022",
     "name": "박준흥",
@@ -1304,8 +1303,8 @@
     "sex": "남",
     "email": "park222@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 143,
     "studentNo": "201932023",
     "name": "민진구",
@@ -1313,8 +1312,8 @@
     "sex": "남",
     "email": "min238@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 144,
     "studentNo": "201932024",
     "name": "박환인",
@@ -1322,8 +1321,8 @@
     "sex": "남",
     "email": "park249@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 145,
     "studentNo": "201932025",
     "name": "장일정",
@@ -1331,8 +1330,8 @@
     "sex": "남",
     "email": "jang259@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 146,
     "studentNo": "201932026",
     "name": "유옥병",
@@ -1340,8 +1339,8 @@
     "sex": "남",
     "email": "yu263@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 147,
     "studentNo": "201932027",
     "name": "고나진",
@@ -1349,8 +1348,8 @@
     "sex": "남",
     "email": "ko273@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 148,
     "studentNo": "201932028",
     "name": "문재균",
@@ -1358,8 +1357,8 @@
     "sex": "남",
     "email": "moon283@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 149,
     "studentNo": "201932029",
     "name": "문병수",
@@ -1367,8 +1366,8 @@
     "sex": "남",
     "email": "moon297@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 150,
     "studentNo": "201932030",
     "name": "박래용",
@@ -1376,9 +1375,9 @@
     "sex": "남",
     "email": "park305@skhu.ac.kr",
     "departmentId": 1
-},
+  },
 
-{
+  {
     "id": 151,
     "studentNo": "202032006",
     "name": "이우병",
@@ -1386,8 +1385,8 @@
     "sex": "남",
     "email": "lee062@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 152,
     "studentNo": "202032007",
     "name": "신정석",
@@ -1395,8 +1394,8 @@
     "sex": "남",
     "email": "sin077@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 153,
     "studentNo": "202032008",
     "name": "오영세",
@@ -1404,8 +1403,8 @@
     "sex": "남",
     "email": "oh089@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 154,
     "studentNo": "202032009",
     "name": "유진하",
@@ -1413,8 +1412,8 @@
     "sex": "여",
     "email": "yu092@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 155,
     "studentNo": "202032010",
     "name": "노명인",
@@ -1422,8 +1421,8 @@
     "sex": "남",
     "email": "no103@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 156,
     "studentNo": "202032011",
     "name": "김조인",
@@ -1431,8 +1430,8 @@
     "sex": "남",
     "email": "kim116@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 157,
     "studentNo": "202032012",
     "name": "김주영",
@@ -1440,8 +1439,8 @@
     "sex": "남",
     "email": "kim124@skhu.ac.kr",
     "departmentId": 1
-},
-{
+  },
+  {
     "id": 158,
     "studentNo": "202032016",
     "name": "김승현",
@@ -1449,8 +1448,8 @@
     "sex": "남",
     "email": "kim162@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 159,
     "studentNo": "202032017",
     "name": "이룡세",
@@ -1458,8 +1457,8 @@
     "sex": "남",
     "email": "lee176@skhu.ac.kr",
     "departmentId": 4
-},
-{
+  },
+  {
     "id": 160,
     "studentNo": "202032018",
     "name": "김미윤",
@@ -1467,8 +1466,8 @@
     "sex": "여",
     "email": "kim181@skhu.ac.kr",
     "departmentId": 3
-},
-{
+  },
+  {
     "id": 161,
     "studentNo": "202032019",
     "name": "유진안",
@@ -1476,8 +1475,8 @@
     "sex": "여",
     "email": "yu199@skhu.ac.kr",
     "departmentId": 2
-},
-{
+  },
+  {
     "id": 162,
     "studentNo": "202032020",
     "name": "정종현",
@@ -1485,6 +1484,5 @@
     "sex": "남",
     "email": "jeong205@skhu.ac.kr",
     "departmentId": 1
-}
-]
+  }]
 }
