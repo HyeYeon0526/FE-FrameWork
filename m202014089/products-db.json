@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "콜라",
+      "category": "음료",
+      "price": 1000,
+      "quantity": 5,
+      "available": true
+    },
+    {
+      "id": 2,
+      "title": "우유",
+      "category": "음료",
+      "price": 1500,
+      "quantity": 8,
+      "available": false
+    },
+    {
+      "id": 3,
+      "title": "조리퐁",
+      "category": "과자",
+      "price": "1200",
+      "quantity": 15,
+      "available": true
+    },
+    {
+      "id": 4,
+      "title": "초코파이",
+      "category": "빵",
+      "price": 8000,
+      "quantity": 3,
+      "available": false
+    }
+  ]
+}
